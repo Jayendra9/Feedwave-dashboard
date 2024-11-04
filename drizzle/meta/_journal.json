@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1730572414905,
+      "tag": "20241102183334_breezy_firebrand",
+      "breakpoints": true
+    }
+  ]
+}
